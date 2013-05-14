@@ -1,0 +1,48 @@
+Draft Plan (JR)
+
+Num People	Depending on demand - max 12 if to be done in TW office
+Date		TBC
+Duration	½ day basic, ½ day advanced (I suspect this is too squeezed)
+Outline		Practical use of Selenium through existing proven technology (e.g. 
+WebDriver/SpecFlow or WebDriver/Cucumber), laying the foundation of string tests automation and continuous delivery practices
+
+Basic Training Agenda
+
+Intro (45 min)
+Ice Breaker (TW, Selenium, why this training, expectations) - PPT - 10 min
+History (Selenium, Selenium RC, WebDriver) - PPT - 10 min
+Tests Automation & Continuous Delivery - PPT - 5 min
+What is selenium good at / bad at (web apps with HTML compliant code) - 5 mins
+Setup (with whatever stack we decide to use) - Hands-on - 15 min
+
+Courses (PPT + Hands-on - 3.5 hours)
+Topic 1 - Automation Vs. Record and Playback - 30 min
+Topic 2 - Elements locator (id, name, css, xpath) - 30 min
+Topic 3 - Steps parameterisation - 1 hour
+Topic 4 - Page Model - 45 min
+Topic 5 - Hooks (intro to data setup/teardown, env specific stuffs) - 30 min
+Topic 6 - Reporting and Continuous Delivery - 15 min
+
+Conclusion (10 min)
+1. Questions
+2. Review expectations
+3. Feedback
+
+
+Advanced Training Agenda
+
+Intro (20 min)
+Review what covered in basic traning - 10 min
+Setup (with whatever stack we decide to use) - Hands-on - 10 min
+
+Courses (PPT + Hands-on - 3.5 hours)
+Topic 1 - Advanced WebDriver functions (waiting, image presence, javascript) - 1 hour
+Topic 2 - Parallelisation - 30 min 
+Topic 3 - Interacting with the Browser environment (user agent, firefox plugins) - 1 hour
+Topic 4 - Advanced data setup & teardown - 1 hour
+
+Conclusion (10 min)
+1. Questions
+2. Review expectations
+3. Feedback
+
