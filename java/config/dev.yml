@@ -1,0 +1,4 @@
+driver:     Firefox
+protocol:   http
+url:        tomcat.corsamore.com
+
