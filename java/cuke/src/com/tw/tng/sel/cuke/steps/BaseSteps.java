@@ -1,6 +1,6 @@
-package com.tw.tng.sel.steps;
+package com.tw.tng.sel.cuke.steps;
 
-import com.tw.tng.sel.pages.CashMachinePage;
+import com.tw.tng.sel.cuke.pages.CashMachinePage;
 
 public class BaseSteps {
 

@@ -1,9 +1,9 @@
-package com.tw.tng.sel.pages;
+package com.tw.tng.sel.cuke.pages;
 
-import com.tw.tng.sel.hooks.Hooks;
+import com.tw.tng.sel.cuke.hooks.Hooks;
 import org.openqa.selenium.WebDriver;
 
-import static com.tw.tng.sel.hooks.Hooks.*;
+import static com.tw.tng.sel.cuke.hooks.Hooks.*;
 
 public class BasePage {
 

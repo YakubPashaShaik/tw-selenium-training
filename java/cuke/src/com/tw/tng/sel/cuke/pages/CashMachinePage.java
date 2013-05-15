@@ -1,4 +1,4 @@
-package com.tw.tng.sel.pages;
+package com.tw.tng.sel.cuke.pages;
 
 
 import org.openqa.selenium.By;
